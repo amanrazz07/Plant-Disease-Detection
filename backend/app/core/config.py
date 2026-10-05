@@ -32,11 +32,7 @@ class Settings(BaseSettings):
 
     # API
     API_PREFIX: str = "/api"
-    CORS_ORIGINS: list[str] = [
-        "http://localhost:5173",
-        "http://localhost:3000",
-        "http://localhost:4173",
-    ]
+    CORS_ORIGINS: list[str] = ["*"]
 
     model_config = {"env_file": ".env", "extra": "ignore"}
 
