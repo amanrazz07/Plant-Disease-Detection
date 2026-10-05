@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1 Score,Inference (ms),Size (MB),Parameters
+Custom CNN,0.0702,0.0266,0.0702,0.0270,0.00,5.37,"463,974"
+MobileNetV2,0.9520,0.9510,0.9490,0.9500,0.00,18.34,"2,707,238"
+ResNet50,0.8420,0.8380,0.8350,0.8360,0.00,96.74,"24,122,022"

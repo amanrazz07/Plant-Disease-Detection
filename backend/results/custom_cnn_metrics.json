@@ -1,0 +1,9 @@
+{
+  "model_name": "custom_cnn",
+  "accuracy": 0.07017543859649122,
+  "precision": 0.02662970903138951,
+  "recall": 0.07017543859649124,
+  "f1_score": 0.026995899378759066,
+  "total_params": 463974,
+  "model_size_mb": 5.37
+}

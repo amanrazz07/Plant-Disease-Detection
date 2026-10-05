@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+*.env.local
+
+# Build artifacts
+dist/
+build/
+
+# Raw dataset (do NOT push 50,000 raw training photos to git)
+backend/data/
+*.zip
+*.tar.gz
+
+# OS files
+.DS_Store
+Thumbs.db

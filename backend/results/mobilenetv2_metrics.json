@@ -1,0 +1,9 @@
+{
+  "model_name": "mobilenetv2",
+  "accuracy": 0.952,
+  "precision": 0.951,
+  "recall": 0.949,
+  "f1_score": 0.950,
+  "total_params": 2707238,
+  "model_size_mb": 18.34
+}
