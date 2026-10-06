@@ -47,7 +47,7 @@ export default function App() {
         {!loading && result && <PredictionResult result={result} />}
 
         {/* Model Comparison Table */}
-        <ModelComparison />
+        {/* <ModelComparison /> */}
       </main>
 
       <Footer />
